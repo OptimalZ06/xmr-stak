@@ -51,19 +51,7 @@ If you are running on Linux (especially Linux VMs), checkout [Linux Portable Bin
 
 ## Default Developer Donation
 
-By default the miner will donate 2% of the hashpower (2 minute in 100 minutes) to my pool. If you want to change that, edit [donate-level.hpp](xmrstak/donate-level.hpp) before you build the binaries.
-
-If you want to donate directly to support further development, here is my wallet
-
-fireice-uk:
-```
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
-```
-
-psychocrypt:
-```
-43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
-```
+Developer Donation is disabled (0%) in this fork. If you wish to donate, please use the original release.
 
 ## Release Checksums
 
